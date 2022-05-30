@@ -1,70 +1,48 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Where fashion is redefined
+image: /img/freestocks-_3q3tsj01nc-unsplash.jpg
+heading: Make your fashion dreams a reality in few days...
+subheading: Get custom-made fashion accessories on the go
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Livespyke
+  description: We are a platform that provides quick access to custom-made fashion
+    items, including clothes, nails, totes, shoes, and lots more.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/raamin-ka-ur51hxlo7g0-unsplash.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We make clothes for females and males at the exact perfection, with
+        cognizance to the customer's body and flare.
+    - image: /img/annisa-ica-u6caohndvo4-unsplash.jpg
+      text: We can help customers make customizable bags with optional features that
+        suit their needs.
+    - image: /img/designecologist-r-ej0nqmflq-unsplash.jpg
+      text: Nails say a lot! We can make designs of nails that exactly fit customers'
+        description, providing optimal value.
+    - image: /img/mostafa-mahmoudi-3ozr-hlbsq0-unsplash.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe shoes are integral to fashion, therefore we fulfil your
+        dreams by making shoes that fit your aspirations.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Livespyke is the ultimate spot for the production of custom fashion
+    items. Show us what you want and be sure to get it done at a super-fast
+    delivery frame.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Live your dreams in Livespyke!
+  description: We hold our customers to the highest esteem by making exactly what
+    they want, how they want it. Things never go wrong at Livespyke.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Fashion at its peak.
+    image: /img/freestocks-_3q3tsj01nc-unsplash.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Be rest assured that we can get your things done easily.
+    image: /img/cesar-la-rosa-hbaddptme1q-unsplash.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: The colors always match!
+    image: /img/cute-spring-clothes-298330-1646365956294-main.700x0c.jpg
 ---
