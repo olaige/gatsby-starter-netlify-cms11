@@ -8,10 +8,7 @@ mainpitch:
   title: Why Livespyke
   description: We are a platform that provides quick access to custom-made fashion
     items, including clothes, nails, totes, shoes, and lots more.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: The best spot for making custom fashion items at super-fast delivery timeframe by professional fashion developers.
 intro:
   blurbs:
     - image: /img/raamin-ka-ur51hxlo7g0-unsplash.jpg
